@@ -1,0 +1,19 @@
+Page d'accueil utilisateur connecté
+
+Navbare
+
+.ACCUEIL
+.PROJETS
+.FORMATIONS
+.PROFIL
+
+Les Différents modules du Dashboard
+
+.FIL D'ACTU
+.MAP LOCALISATOR
+.MAILBOX
+.CHATBOX
+.SUGGESTION DE CONTACTS
+.DERNIERS INSCRIT
+.DERNIERES OFFRES
+.DERNIERS GROUPES
